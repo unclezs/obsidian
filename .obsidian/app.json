@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": false,
+  "foldHeading": false,
+  "defaultViewMode": "preview",
+  "showFrontmatter": true,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "fileSortOrder": "alphabetical"
+}

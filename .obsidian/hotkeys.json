@@ -1,0 +1,12 @@
+{
+  "Enhanced-editing:del-lines": [],
+  "Enhanced-editing:copy-text": [],
+  "Enhanced-editing:cuti-text": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ]
+}
